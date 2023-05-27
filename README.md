@@ -40,7 +40,7 @@ Después de trabajar durante más de 15 años en el sector industrial, he decidi
 
 <p align="center">
 <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-En desarrollo-blue?style=flat&logo=google-chrome"></a>
-<a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-En desarrollo-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rub%C3%A9nlcwebdeveloper/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RuénLC-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:yourEmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rublomcal@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
