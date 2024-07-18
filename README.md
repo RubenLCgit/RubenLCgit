@@ -10,7 +10,7 @@
 
 <div>
  <p>
-Después de trabajar durante más de 15 años en el sector industrial, he decidido perseguir mi verdadera pasión y convertirme en Desarrollador. Actualmente, estoy cursando un grado superior en Desarrollo de Aplicaciones Web y Multiplataforma y me gustaría tener la oportunidad de fusionar mi experiencia adquirida trabajando en equipo con mis habilidades emergentes en programación para contribuir al desarrollo de aplicaciones y soluciones web innovadoras.
+Después de trabajar durante más de 15 años en el sector industrial, he decidido perseguir mi verdadera pasión y convertirme en Desarrollador. Actualmente, acabo de terminar un grado superior en Desarrollo de Aplicaciones Web y me gustaría tener la oportunidad de fusionar mi experiencia adquirida trabajando en equipo con mis habilidades emergentes en programación para contribuir al desarrollo de aplicaciones y soluciones web innovadoras.
 </p>
 </div>
 
